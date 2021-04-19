@@ -6,3 +6,6 @@ Authentication
 Top Navigation
 Botton Navigation
 Redux
+
+
+yarn install and done ;D
